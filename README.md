@@ -20,3 +20,5 @@ It only takes a few clicks!
 * Pick up your favorite delivery method and compression style and click on **'Create archive'**
 * Be patient as your google search history is being assembled, it may take up to a few minutes, especially if your history is rather large.
 * Eventually you will obtain a link to an **.zip** file that you can download. Congratulations, your data is within this file!
+
+* Once you have your data you can download [this notebook](https://github.com/aath0/Google-Searches-Analyzer/blob/master/Google%20Search%20Analyser.ipynb) and either run it locally at your own workstation, or upload your data on [this provisionary project](https://goo-searches-analyzer.herokuapp.com/) on [Open Humans](https://www.openhumans.org/) and follow the [instructions](https://goo-searches-analyzer.herokuapp.com/about) to run the notebook on [Open Humans Notebooks](https://notebooks.openhumans.org/).
